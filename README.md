@@ -211,14 +211,14 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
         saling mendukung sehingga menjadi satu kesatuan. 
         Paragraf dibuat dengan menggunakan tag dasar html.
     </p>
-<h3>MENAMBAH![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222251.png)KAN GAMBAR</h3>
-    <img src="images/Logo-UPB.png" width="250" 
-         title="Logo Universitas Pelita Bangsa" 
-         alt="Logo UPB">
-
-    <img src="images/Logoo.jpg" width="250"
-        title="Logo Andrean Putra"
-        alt="Logoo">
+    <h3>MENAMBAHKAN GAMBAR</h3>
+   
+    <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-1024x778.png" width="250">
+    <p>
+    <a
+    href="https://ecampus.pelitabangsa.ac.id/pb/">UNIVERSITAS PELITA BANGSA
+    </a>
+    </p>
 
 </body>
 </html>
@@ -242,12 +242,12 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
         <a href="lab1_tag_dasar.html">Dasar HTML</a> |
         <a href="lab1_halaman2.html">Halaman 2</a> |
         <a href="http://www.google.com" target="_blank">Halaman Web Eksternal Google</a> |
-        <a href="profil.html">Profil Andrean Putra</a> |
+        <a href="profil.html">Profil Muhammad Fathir Nurcholis</a> |
     </nav>
     <hr>
     <h1>BELAJAR DASAR HTML</h1>
     <p>
-        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        SAYA <b>MUHAMMAD FATHIR NURCHOLIS</b> dengan <b>NIM 312410287</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
         <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML.
