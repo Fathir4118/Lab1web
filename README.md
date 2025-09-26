@@ -9,7 +9,24 @@ KELAS : TI.24.A.4
 MATKUL : PEMROGRAMAN WEB 1
 
 
-#pertanyaan
+# PERTANYAAN
+![image](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/IMG_20250926_074751.jpg) 
+
+# JAWABAN
+
+1. tidak ada error pada program HTML melainkan hanya tidak memunculkan tag yang bermasalah
+2. <p> digunakan untuk membuat paragraf baru, otomatis menambahkan spasi atas-bawah.
+   <br> digunakan untuk membuat baris baru (line break) tanpa spasi tambahan.
+3. alt → teks alternatif yang muncul jika gambar gagal dimuat, serta dibaca oleh screen reader (aksesibilitas).
+   title → teks yang muncul sebagai tooltip ketika kursor diarahkan ke gambar.
+4. • Jika hanya salah satu atribut yang diisi (misalnya width="250"), maka browser akan otomatis menyesuaikan proporsi
+     tinggi/lebar gambar.
+   • Jika dua-duanya diisi, maka gambar bisa jadi terdistorsi jika rasio tidak sesuai dengan ukuran asli gambar.
+5. Nilai target menentukan di mana halaman link akan dibuka:
+   • _blank → membuka link di tab/jendela baru.
+   • _self → default, membuka link di tab yang sama.
+   • _top → membuka link di jendela penuh, menimpa semua frame.
+   • _parent → membuka link di frame induk (jika ada frame).
 
 # SOURCE CODE HTML
 ```
@@ -95,7 +112,7 @@ Contoh pengaplikasiannya :
     <title>Lab1 - Tag Dasar HTML</title>
 </head>
 <body>
-<p>SAYA ANDREAN PUTRA ARYA dengan NIM 312410241 sedang belajar HTML dasar, pada matakuliah 
+<p>SAYA MUHAMMAD FATHIR NURCHOLIS dengan NIM 312410287 sedang belajar HTML dasar, pada matakuliah 
 Pemrograman Web1 di Prodi Teknik Informatika Universitas Pelita Bangsa. 
 Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
 dalam rangka mengenal tag-tag dasar HTML.</p>
@@ -123,7 +140,7 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 <body>
 <h1>BELAJAR DASAR HTML</h1>
     <p>
-        SAYA ANDREAN PUTRA ARYA dengan NIM 312410241 sedang belajar HTML dasar, pada matakuliah 
+        SAYA MUHAMMAD FATHIR NURCHOLIS dengan NIM 312410387 sedang belajar HTML dasar, pada matakuliah 
         Pemrograman Web1 di Prodi Teknik Informatika Universitas Pelita Bangsa. 
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML.
@@ -153,7 +170,7 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada b
 <body>
 <h1>BELAJAR DASAR HTML</h1>
     <p>
-        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        SAYA <b>MUHAMMAD FATHIR NURCHOLIS</b> dengan <b>NIM 312410287</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
         <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML.
