@@ -19,14 +19,14 @@ MATKUL : PEMROGRAMAN WEB 1
    <br> digunakan untuk membuat baris baru (line break) tanpa spasi tambahan.
 3. alt → teks alternatif yang muncul jika gambar gagal dimuat, serta dibaca oleh screen reader (aksesibilitas).
    title → teks yang muncul sebagai tooltip ketika kursor diarahkan ke gambar.
-4. • Jika hanya salah satu atribut yang diisi (misalnya width="250"), maka browser akan otomatis menyesuaikan proporsi
+4. | Jika hanya salah satu atribut yang diisi (misalnya width="250"), maka browser akan otomatis menyesuaikan proporsi
      tinggi/lebar gambar.
-   • Jika dua-duanya diisi, maka gambar bisa jadi terdistorsi jika rasio tidak sesuai dengan ukuran asli gambar.
+   | Jika dua-duanya diisi, maka gambar bisa jadi terdistorsi jika rasio tidak sesuai dengan ukuran asli gambar.
 5. Nilai target menentukan di mana halaman link akan dibuka:
-   • _blank → membuka link di tab/jendela baru.
-   • _self → default, membuka link di tab yang sama.
-   • _top → membuka link di jendela penuh, menimpa semua frame.
-   • _parent → membuka link di frame induk (jika ada frame).
+   | _blank → membuka link di tab/jendela baru.
+   | _self → default, membuka link di tab yang sama.
+   | _top → membuka link di jendela penuh, menimpa semua frame.
+   | _parent → membuka link di frame induk.
 
 # PRAKTEK
 
@@ -128,7 +128,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.</p>
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
-![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081539.jpg)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081342.jpg)
 
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
