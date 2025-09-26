@@ -31,7 +31,7 @@ MATKUL : PEMROGRAMAN WEB 1
 # PRAKTEK
 
 # SOURCE CODE HTML
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -80,7 +80,7 @@ HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampil
 - Body berisi isi halaman web.
 
 Contoh pengaplikasiannya : 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -106,7 +106,7 @@ Paragraf dan pemisah baris :
 - hr untuk garis horizontal.
 
 Contoh pengaplikasiannya :
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -132,7 +132,7 @@ Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasi
 
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -162,7 +162,7 @@ Kemduian simpan, lalu kita liat hasilnya :
 
 # 3. MEMFORMAT TEKS
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf, sehingga tampilannya seperti berikut.
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -192,7 +192,7 @@ Selanjutnya, mari kita lihat hasilnya :
 
 # 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya. Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -232,7 +232,7 @@ Simpan perubahannya, kemudian refresh browser.
 
 # 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
-```
+```HTML
 <!DOCTYPE html>
 <html lang="id">
 <head>
