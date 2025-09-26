@@ -28,6 +28,8 @@ MATKUL : PEMROGRAMAN WEB 1
    • _top → membuka link di jendela penuh, menimpa semua frame.
    • _parent → membuka link di frame induk (jika ada frame).
 
+# PRAKTEK
+
 # SOURCE CODE HTML
 ```
 <!DOCTYPE html>
@@ -41,7 +43,7 @@ MATKUL : PEMROGRAMAN WEB 1
         <a href="lab1_tag_dasar.html">Dasar HTML</a> |
         <a href="lab1_halaman2.html">Halaman 2</a> |
         <a href="http://www.google.com" target="_blank">Halaman Web Eksternal Google</a> |
-        <a href="profil.html">Profil Andrean Putra</a> |
+        <a href="https://github.com/Fathir4118/Lab1web">Profil Muhammad Fathir Nurcholis</a> |
     </nav>
     <hr>
     <h1>BELAJAR DASAR HTML</h1>
@@ -62,7 +64,7 @@ MATKUL : PEMROGRAMAN WEB 1
     <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-1024x778.png" width="250">
     <p>
     <a
-    href="ttps://ecampus.pelitabangsa.ac.id/pb/">UNIVERSITAS PELITA BANGSA
+    href="https://ecampus.pelitabangsa.ac.id/pb/">UNIVERSITAS PELITA BANGSA
     </a>
     </p>
 
@@ -242,7 +244,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
         <a href="lab1_tag_dasar.html">Dasar HTML</a> |
         <a href="lab1_halaman2.html">Halaman 2</a> |
         <a href="http://www.google.com" target="_blank">Halaman Web Eksternal Google</a> |
-        <a href="profil.html">Profil Muhammad Fathir Nurcholis</a> |
+        <a href="https://github.com/Fathir4118/Lab1web">Profil Muhammad Fathir Nurcholis</a> |
     </nav>
     <hr>
     <h1>BELAJAR DASAR HTML</h1>
@@ -259,13 +261,13 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
         Paragraf dibuat dengan menggunakan tag dasar html.
     </p>
     <h3>MENAMBAHKAN GAMBAR</h3>
-    <img src="images/Logo-UPB.png" width="250" 
-         title="Logo Universitas Pelita Bangsa" 
-         alt="Logo UPB">
-
-    <img src="images/Logoo.jpg" width="250"
-        title="Logo Andrean Putra"
-        alt="Logoo">
+   
+    <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-1024x778.png" width="250">
+    <p>
+    <a
+    href="https://ecampus.pelitabangsa.ac.id/pb/">UNIVERSITAS PELITA BANGSA
+    </a>
+    </p>
 
 </body>
 </html>
