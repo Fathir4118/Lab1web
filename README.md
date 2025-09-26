@@ -95,7 +95,7 @@ Contoh pengaplikasiannya :
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/0d1dc9756264aa73de3e2dce67416c97de2eed56/images/Screenshot%20from%202025-09-25%2013-11-07.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081054.jpg)
 
 # 1. MEMBUAT PARAGRAF
 
@@ -128,7 +128,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.</p>
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/8c343f6dd573d88b21860bb2e9ceda27a4b9b017/images/Screenshot%20from%202025-09-25%2013-19-43.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081539.jpg)
 
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
@@ -158,7 +158,7 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 ```
 Kemduian simpan, lalu kita liat hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/6807241faa0760417b55e655659a8f5097d60094/images/Screenshot%20from%202025-09-25%2013-29-29.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081539.jpg)
 
 # 3. MEMFORMAT TEKS
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf, sehingga tampilannya seperti berikut.
@@ -188,7 +188,7 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada b
 ```
 Selanjutnya, mari kita lihat hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/38c7b88acc5226ced271120d512e5ba7d72c2ee3/images/Screenshot%20from%202025-09-25%2013-24-55.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_081738.jpg)
 
 # 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya. Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
@@ -228,7 +228,7 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 
 Simpan perubahannya, kemudian refresh browser.
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/869013dfb5a9820f66a0b3dfbf5158e3ed569b20/images/Screenshot%20from%202025-09-25%2013-33-52.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_083520.jpg)
 
 # 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
@@ -274,4 +274,4 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 ```
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/89e7b0aa02e031d22b25d8e48e812bb227fd0ad6/images/Screenshot%20from%202025-09-25%2013-36-59.png)
+![gambar](https://github.com/Fathir4118/Lab1web/blob/main/Gambar/Screenshot_20250926_084046.jpg)
